@@ -88,4 +88,4 @@ Adoro receber contribuições! Se você tiver sugestões de melhorias, novos rec
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [MIT License].
+Este projeto está licenciado sob a [MIT License](https://github.com/CeLo93/Cinema_prtotypeVR/blob/main/LICENSE).
