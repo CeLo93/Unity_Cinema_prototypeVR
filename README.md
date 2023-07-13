@@ -41,12 +41,21 @@ https://github.com/CeLo93/Cinema_prtotypeVR/assets/92175791/4a4173ff-de0f-48d5-8
 
 Tenho algumas ideias legais para futuras implementações no projeto:
 
-- 🌐 Ao invés de carregar os filmes diretamente do meu computador, pretendo permitir que você adicione links de vídeos de serviços como Vimeo para reproduzi-los. Infelizmente, o YouTube não permite acesso direto, mas vou encontrar uma solução.
-- ⏩ Também vou adicionar uma opção para ajustar a velocidade de reprodução dos filmes. Quem sabe assistir a um filme em câmera lenta ou acelerado?
-- 🎮 Para deixar a experiência ainda mais envolvente, estou planejando adicionar animações aos botões do controle. Vai ser demais!
-- 🎭 Quero criar animações para personagens sentados nas cadeiras. Assim, a sala de cinema vai parecer mais cheia e realista.
-- 🍿 Além disso, quero adicionar animações para vendedores que vão interagir com você antes do início da sessão. Quem sabe oferecerem pipoca e refrigerante virtual?
-- 🚀 Por último, mas não menos importante, vou integrar totalmente o suporte para Realidade Virtual (VR). Isso significa que você poderá assistir aos filmes com um headset de VR e sentir como se estivesse realmente no cinema!
+- 🌐 **Carregamento de vídeos online**: Ao invés de carregar os filmes diretamente do meu computador, pretendo permitir que você adicione links de vídeos de serviços como Vimeo para reproduzi-los. Infelizmente, o YouTube não permite acesso direto, mas vou encontrar uma solução.
+
+- 🔉 **Áudio imersivo**: Pretendo configurar melhor o Audio Source para criar um ambiente sonoro mais imersivo. O som da tela diminuirá ao se afastar e aumentará ao se aproximar, proporcionando uma experiência sonora mais realista.
+
+- ⏩ **Controle de velocidade de reprodução**: Adicionarei uma opção para ajustar a velocidade de reprodução dos filmes. Assim, será possível assistir a um filme em câmera lenta ou acelerado, de acordo com a preferência do espectador.
+
+- 🎮 **Animações nos botões do controle**: Para deixar a experiência ainda mais envolvente, planejo adicionar animações aos botões do controle. Isso adicionará interatividade e tornará a experiência de assistir ao filme mais dinâmica.
+
+- 🎭 **Animações nos personagens**: Quero criar animações para os personagens sentados nas cadeiras da sala de cinema. Isso trará mais vida e realismo ao ambiente, fazendo com que a sala de cinema pareça mais cheia e animada.
+
+- 🍿 **Animações dos vendedores**: Também pretendo adicionar animações para os vendedores que interagem com os espectadores antes do início da sessão. Quem sabe eles ofereçam pipoca e refrigerante virtualmente? Isso adicionará mais diversão e realismo à experiência.
+
+- 🚀 **Suporte completo para Realidade Virtual (VR)**: Por último, mas não menos importante, vou integrar totalmente o suporte para Realidade Virtual (VR). Isso significa que você poderá assistir aos filmes com um headset de VR e sentirá como se estivesse realmente dentro do cinema, com uma experiência totalmente imersiva.
+
+Estou muito animado com todas essas futuras implementações e espero tornar a experiência de sala de cinema virtual cada vez mais incrível! siga para ficar de olho nas próximas atualizações do projeto.
 
 ## ❓ Por que ainda não está em VR?
 
